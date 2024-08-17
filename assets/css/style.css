@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    max-width: 100%;
+    height: auto;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.custom-btn {
+    background-color: #8C3061 !important;
+    border-color: #8C3061 !important;
+    color: white !important;
+}
